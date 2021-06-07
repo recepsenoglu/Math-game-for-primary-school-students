@@ -1,0 +1,33 @@
+C:\Users\user_\source\repos\Matematik oyunu\Matematik oyunu\bin\Debug\Matematik oyunu.exe.config
+C:\Users\user_\source\repos\Matematik oyunu\Matematik oyunu\bin\Debug\Matematik oyunu.exe
+C:\Users\user_\source\repos\Matematik oyunu\Matematik oyunu\bin\Debug\Matematik oyunu.pdb
+C:\Users\user_\source\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik oyunu.csprojAssemblyReference.cache
+C:\Users\user_\source\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik_oyunu.Form1.resources
+C:\Users\user_\source\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik_oyunu.Properties.Resources.resources
+C:\Users\user_\source\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik oyunu.csproj.GenerateResource.cache
+C:\Users\user_\source\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik oyunu.exe
+C:\Users\user_\source\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik oyunu.pdb
+C:\Users\user_\source\repos\Matematik oyunu\Matematik oyunu\bin\Debug\Antlr4.Runtime.dll
+C:\Users\user_\source\repos\Matematik oyunu\Matematik oyunu\bin\Debug\PowerArgs.dll
+C:\Users\user_\source\repos\Matematik oyunu\Matematik oyunu\bin\Debug\Telerik.JustMock.dll
+C:\Users\user_\source\repos\Matematik oyunu\Matematik oyunu\bin\Debug\Antlr4.Runtime.xml
+C:\Users\user_\source\repos\Matematik oyunu\Matematik oyunu\bin\Debug\PowerArgs.xml
+C:\Users\user_\source\repos\Matematik oyunu\Matematik oyunu\bin\Debug\Telerik.JustMock.xml
+C:\Users\user_\source\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik oyunu.csproj.CopyComplete
+D:\yedek\masaüstü 3\repos\Matematik oyunu\Matematik oyunu\bin\Debug\Matematik oyunu.exe.config
+D:\yedek\masaüstü 3\repos\Matematik oyunu\Matematik oyunu\bin\Debug\Matematik oyunu.exe
+D:\yedek\masaüstü 3\repos\Matematik oyunu\Matematik oyunu\bin\Debug\Matematik oyunu.pdb
+D:\yedek\masaüstü 3\repos\Matematik oyunu\Matematik oyunu\bin\Debug\Antlr4.Runtime.dll
+D:\yedek\masaüstü 3\repos\Matematik oyunu\Matematik oyunu\bin\Debug\PowerArgs.dll
+D:\yedek\masaüstü 3\repos\Matematik oyunu\Matematik oyunu\bin\Debug\Telerik.JustMock.dll
+D:\yedek\masaüstü 3\repos\Matematik oyunu\Matematik oyunu\bin\Debug\Antlr4.Runtime.xml
+D:\yedek\masaüstü 3\repos\Matematik oyunu\Matematik oyunu\bin\Debug\PowerArgs.xml
+D:\yedek\masaüstü 3\repos\Matematik oyunu\Matematik oyunu\bin\Debug\Telerik.JustMock.xml
+D:\yedek\masaüstü 3\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik oyunu.csprojAssemblyReference.cache
+D:\yedek\masaüstü 3\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik_oyunu.Form1.resources
+D:\yedek\masaüstü 3\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik_oyunu.Properties.Resources.resources
+D:\yedek\masaüstü 3\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik oyunu.csproj.GenerateResource.cache
+D:\yedek\masaüstü 3\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik oyunu.csproj.CoreCompileInputs.cache
+D:\yedek\masaüstü 3\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik oyunu.csproj.CopyComplete
+D:\yedek\masaüstü 3\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik oyunu.exe
+D:\yedek\masaüstü 3\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik oyunu.pdb
